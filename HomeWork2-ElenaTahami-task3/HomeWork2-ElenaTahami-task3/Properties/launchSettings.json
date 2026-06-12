@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HomeWork2-ElenaTahami-task3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
