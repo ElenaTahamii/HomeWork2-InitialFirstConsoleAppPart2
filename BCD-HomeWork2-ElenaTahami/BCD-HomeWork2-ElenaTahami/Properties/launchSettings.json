@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BCD-HomeWork2-ElenaTahami": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
