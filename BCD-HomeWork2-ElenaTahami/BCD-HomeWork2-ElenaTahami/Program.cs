@@ -12,14 +12,14 @@ class Student
 
     public int Age
     {
-        get { return age; }
+        get { return Value; }
         set { age = value; }
     }
 
     public void Introduce()
 
     {
-        Console.WriteLine($" hello My Name is  {Name} and I am  {Age}  years old");
+        Console.WriteLine($" hello My Name is  {Name} and I am  {Age}  years Old");
     }
 }
 
@@ -28,6 +28,10 @@ class Program
     static void Main()
 
     {
+
+
+
+
 
         Student p = new Student();
         p.Name = "Elena";
